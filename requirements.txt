@@ -1,0 +1,7 @@
+pandas
+matplotlib
+streamlit
+pytest
+python-dotenv
+
+# pip install -r requirements.txt
