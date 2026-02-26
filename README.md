@@ -53,8 +53,8 @@ The dashboard provides multiple insights:
 ## 📂 Project Structure
 EXPENSE-TRACKER/
 │
-├────── src/
-|   ├────── .gitignore
+├── src/
+|   ├── .gitignore
 │   ├── __init__.py
 │   ├── analyse.py
 │   ├── app_streamlit.py
