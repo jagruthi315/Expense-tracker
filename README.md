@@ -113,4 +113,5 @@ Cloud database integration
 Mobile-friendly UI
 # Screenshot 
 ## Expense Tracker Preview:
-![Preview:]()
+![Preview:](https://github.com/jagruthi315/Expense-tracker/blob/main/exp1.PNG)
+![Preview:](https://github.com/jagruthi315/Expense-tracker/blob/main/exp2.PNG)
