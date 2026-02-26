@@ -111,3 +111,6 @@ Export reports (PDF/CSV)
 Cloud database integration
 
 Mobile-friendly UI
+# Screenshot 
+## Expense Tracker Preview:
+![Preview:]()
